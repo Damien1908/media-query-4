@@ -1,0 +1,8 @@
+@media (min-width:1024px){
+    .square{
+        width: 33%;
+        height: 250px;
+        border-radius: 50%;
+        border: solid green 5px
+    }
+}
